@@ -1,0 +1,34 @@
+# Test outputs
+test_*.py
+test_*.json
+test_*.txt
+
+# Analysis outputs
+*_report.json
+*_interpretation.txt
+memory_report.json
+memory_report_interpretation.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+

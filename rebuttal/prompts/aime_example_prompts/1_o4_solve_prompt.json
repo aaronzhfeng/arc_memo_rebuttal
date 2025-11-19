@@ -1,0 +1,4 @@
+{
+  "system_prompt": "You are an expert mathematics problem solver. Provide clear, step-by-step reasoning.",
+  "user_prompt": "\nSolve this AIME problem. First explain your reasoning, then give the answer.\n\nProblem: In $\\triangle ABC$ with $AB=AC,$ point $D$ lies strictly between $A$ and $C$ on side $\\overline{AC},$ and point $E$ lies strictly between $A$ and $B$ on side $\\overline{AB}$ such that $AE=ED=DB=BC.$ The degree measure of $\\angle ABC$ is $\\tfrac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$ \n\nInstructions:\n1. REASONING: Explain your approach, key insights, and solution steps\n2. ANSWER: Provide only the final numerical answer (integer between 0-999)\n\nFormat your response exactly as:\n\nREASONING:\n[Your detailed thought process and solution steps]\n\nANSWER: [just the number]\n"
+}

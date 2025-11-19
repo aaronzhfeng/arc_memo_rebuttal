@@ -1,0 +1,97 @@
+======================================================================
+PROMPT 3: gpt41 Abstraction (Extract Concepts)
+======================================================================
+
+### Introduction
+You are analyzing AIME (American Invitational Mathematics Examination) problems to 
+extract reusable mathematical reasoning patterns. AIME problems span various domains 
+including algebra, geometry, number theory, and combinatorics.
+
+Your task is to analyze a solved AIME problem and the solver's reasoning process to 
+extract reusable lessons for solving other AIME problems. Write problem-solving "rules" 
+that describe a **situation** (what patterns to recognize) and a **suggestion** (what 
+techniques to try).
+
+### Instructions
+We will provide you with a problem, solution, and reasoning process.
+- The "situation" should describe mathematical patterns, structures, or conditions
+- The "suggestion" should recommend specific techniques or approaches
+- Make lessons general and reusable across different problems
+- Focus on high-level mathematical insights
+- Parameterize specific values (use "when coefficient pattern is..." not "when a=5")
+
+Format:
+```yaml
+- situation: [mathematical pattern or condition to recognize]
+  suggestion: [technique or approach to try]
+```
+
+### Examples
+#### Example 1 (2019-I-1)
+Problem: Consider the integer \[N = 9 + 99 + 999 + 9999 + \cdots + \underbrace{99\ldots 99}_\text{321 digits}.\] Find the sum of the digits of $N$ .
+Answer: 342
+
+Extracted Concepts:
+```yaml
+- situation: "When an integer is formed by summing or concatenating long blocks of identical digits (like many 9s) and you are asked about its decimal form or digit sum."
+  suggestion: "Express each repeated-digit block using powers of the base (for example as combinations of 10^k and 1), combine them with geometric-series algebra, and then interpret the resulting expression back in base 10 to see the digit pattern."
+- situation: "When you have an algebraic expression for a large integer and need only its digit pattern or digit sum, especially after simplifying sums of repeated-digit numbers."
+  suggestion: "Rewrite the number into a form that is close to a string of all 0s, 1s, or 9s and then analyze the necessary carries or borrows systematically to determine long stretches of identical digits and compute the digit sum without full expansion."
+```
+
+#### Example 2 (2019-I-2)
+Problem: Jenn randomly chooses a number $J$ from $1, 2, 3,\ldots, 19, 20$ . Bela then randomly chooses a number $B$ from $1, 2, 3,\ldots, 19, 20$ distinct from $J$ . The value of $B - J$ is at least $2$ with a probability that can be expressed in the form $\tfrac{m}{n}$ , where $m$ and $n$ are relatively prime positive integers. Find $m+n$ .
+Answer: 29
+
+Extracted Concepts:
+```yaml
+- situation: "When two numbers are chosen from a finite consecutive integer range and the condition depends only on their difference or which one is larger."
+  suggestion: "Model all outcomes as ordered pairs on an integer grid, describe the region that satisfies the inequality (or its complement) as a simple band or triangle, and count lattice points in that region to obtain the probability."
+```
+
+#### Example 3 (2019-I-3)
+Problem: In $\triangle PQR$ , $PR=15$ , $QR=20$ , and $PQ=25$ . Points $A$ and $B$ lie on $\overline{PQ}$ , points $C$ and $D$ lie on $\overline{QR}$ , and points $E$ and $F$ lie on $\overline{PR}$ , with $PA=QB=QC=RD=RE=PF=5$ . Find the area of hexagon $ABCDEF$ .
+Answer: 120
+
+Extracted Concepts:
+```yaml
+- situation: "When a triangle with convenient side lengths (such as a scaled Pythagorean triple) has points marked at fixed distances along its sides and you need areas or coordinates of interior polygons."
+  suggestion: "Place the triangle in a coordinate system so key sides lie on the axes, parametrize points on the sides by their fractional distances from the vertices, and compute their coordinates explicitly."
+- situation: "When the vertices of a polygon are known in coordinates and the task is to find its area, especially inside a larger triangle."
+  suggestion: "Use a coordinate-area method such as the shoelace formula, or decompose the polygon into simpler triangles and rectangles, to calculate the area directly from the vertex coordinates."
+```
+
+#### Example 4 (2019-I-4)
+Problem: A soccer team has $22$ available players. A fixed set of $11$ players starts the game, while the other $11$ are available as substitutes. During the game, the coach may make as many as $3$ substitutions, where any one of the $11$ players in the game is replaced by one of the substitutes. No player removed from the game may reenter the game, although a substitute entering the game may be replaced later. No two substitutions can happen at the same time. The players involved and the order of the substitutions matter. Let $n$ be the number of ways the coach can make substitutions during the game (including the possibility of making no substitutions). Find the remainder when $n$ is divided by $1000$ .
+Answer: 122
+
+Extracted Concepts:
+```yaml
+- situation: "When you have a small fixed number of sequential operations (like substitutions in a lineup) where each step chooses ordered participants from evolving 'in' and 'out' groups, with simple rules such as no reentry."
+  suggestion: "Track only the sizes of the groups as invariants, determine the number of choices for each step as the process evolves, multiply these stepwise counts for each possible length of the sequence, and then sum over the allowed numbers of steps, reducing modulo any required base at the end."
+```
+
+#### Example 5 (2019-I-5)
+Problem: A moving particle starts at the point $(4,4)$ and moves until it hits one of the coordinate axes for the first time. When the particle is at the point $(a,b)$ , it moves at random to one of the points $(a-1,b)$ , $(a,b-1)$ , or $(a-1,b-1)$ , each with probability $\tfrac{1}{3}$ , independently of its previous moves. The probability that it will hit the coordinate axes at $(0,0)$ is $\tfrac{m}{3^n}$ , where $m$ and $n$ are positive integers, and $m$ is not divisible by $3$ . Find $m + n$ .
+Answer: 252
+
+Extracted Concepts:
+```yaml
+- situation: "When a random process moves on a discrete grid with fixed transition probabilities until it hits an absorbing boundary, and you are asked for the probability of reaching a specific boundary point."
+  suggestion: "Assign a variable to the desired probability at each state, write linear recurrences based on the one-step transitions together with boundary conditions at the absorbing states, and solve this finite system (often using symmetry and back-substitution) to obtain the target probability."
+```
+
+### Problem
+In $\triangle ABC$ with $AB=AC,$ point $D$ lies strictly between $A$ and $C$ on side $\overline{AC},$ and point $E$ lies strictly between $A$ and $B$ on side $\overline{AB}$ such that $AE=ED=DB=BC.$ The degree measure of $\angle ABC$ is $\tfrac{m}{n},$ where $m$ and $n$ are relatively prime positive integers. Find $m+n.$ 
+
+### Solution Answer
+547
+
+### Solver's Reasoning
+[This would be o4's actual reasoning about the problem]
+
+Example reasoning might include:
+- Identifying key patterns
+- Choosing solution approach
+- Step-by-step solution
+- Verification
