@@ -1,0 +1,5 @@
+- data=aime_val
+- model=gemini_2_5_flash_lite_thinking
+- generation=gemini_thinking_16k
+- prompt.problem_data=experiments/aime_val/selection_correct/prompt_info.json
+- generation.ignore_cache=true

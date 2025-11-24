@@ -1,0 +1,124 @@
+[2025-11-20 00:22:02,653][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments/aime_val/gemini_baseline_20251120-002159
+[2025-11-20 00:22:03,334][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,336][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,336][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,336][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,337][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,343][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,347][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,370][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,383][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,392][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,415][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,417][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,418][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,419][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,425][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,425][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,426][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,432][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,437][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,457][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,457][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,457][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,459][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,460][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,469][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,470][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,483][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,496][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,520][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,556][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,558][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:03,599][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:05,766][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:06,267][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:06,664][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:06,978][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:07,090][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:07,461][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:07,707][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:08,957][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:09,158][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:09,420][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:09,903][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:09,945][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:10,028][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:10,194][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:11,091][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:11,155][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:12,430][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:13,294][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:13,382][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:15,385][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:15,655][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:16,418][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:16,652][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:16,942][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:17,717][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:17,891][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:18,301][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:22:20,181][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 00:23:18,927][__main__][INFO] - 2024_I_1: ✓ Boxed answer '204' from attempt 1
+[2025-11-20 00:23:18,927][__main__][INFO] - 2024_I_2: ✓ Boxed answer '25' from attempt 1
+[2025-11-20 00:23:18,927][__main__][INFO] - 2024_I_3: ✓ Boxed answer '809' from attempt 1
+[2025-11-20 00:23:18,927][__main__][INFO] - 2024_I_4: ✓ Boxed answer '116' from attempt 1
+[2025-11-20 00:23:18,927][__main__][INFO] - 2024_I_5: ✓ Boxed answer '80' from attempt 1
+[2025-11-20 00:23:18,927][__main__][INFO] - 2024_I_6: ✓ Boxed answer '294' from attempt 1
+[2025-11-20 00:23:18,927][__main__][INFO] - 2024_I_7: ✓ Boxed answer '540' from attempt 1
+[2025-11-20 00:23:18,927][__main__][INFO] - 2024_I_8: ✓ Boxed answer '197' from attempt 1
+[2025-11-20 00:23:18,927][__main__][INFO] - 2024_I_9: ✓ Boxed answer '480' from attempt 1
+[2025-11-20 00:23:18,929][__main__][INFO] - 2024_I_10: ⚠ Extracted '2' from attempt 1 (model didn't follow box format)
+[2025-11-20 00:23:18,929][__main__][INFO] - 2024_I_11: ✓ Boxed answer '367' from attempt 1
+[2025-11-20 00:23:18,929][__main__][INFO] - 2024_I_12: ✓ Boxed answer '1' from attempt 1
+[2025-11-20 00:23:18,929][__main__][INFO] - 2024_I_13: ✓ Boxed answer '110' from attempt 1
+[2025-11-20 00:23:18,929][__main__][INFO] - 2024_I_14: ✓ Boxed answer '104' from attempt 1
+[2025-11-20 00:23:18,929][__main__][INFO] - 2024_I_15: ✓ Boxed answer '721' from attempt 1
+[2025-11-20 00:23:18,929][__main__][INFO] - 2024_II_1: ✓ Boxed answer '73' from attempt 1
+[2025-11-20 00:23:18,930][__main__][INFO] - 2024_II_2: ⚠ Extracted '2' from attempt 1 (model didn't follow box format)
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_3: ✓ Boxed answer '45' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_4: ✓ Boxed answer '33' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_5: ✓ Boxed answer '80' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_6: ✓ Boxed answer '55' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_7: ✓ Boxed answer '629' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_8: ✓ Boxed answer '55' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_9: ✓ Boxed answer '122' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_10: ✓ Boxed answer '468' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_11: ✓ Boxed answer '601' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_12: ✓ Boxed answer '23' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_13: ✓ Boxed answer '321' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_14: ✓ Boxed answer '211' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2024_II_15: ✓ Boxed answer '15' from attempt 1
+[2025-11-20 00:23:18,931][__main__][INFO] - 2025_I_1: ✓ Boxed answer '70' from attempt 1
+[2025-11-20 00:23:18,932][__main__][WARNING] - 2025_I_2: Could not extract valid answer from attempt 1
+[2025-11-20 00:23:18,933][__main__][ERROR] - 2025_I_2: No valid answer after 1 attempts. First response: Let $S$ denote the area of a polygon. We are given a triangle $\triangle ABC$ and points on its side...
+[2025-11-20 00:23:18,933][__main__][INFO] - 2025_I_3: ✓ Boxed answer '016' from attempt 1
+[2025-11-20 00:23:18,933][__main__][INFO] - 2025_I_4: ✓ Boxed answer '117' from attempt 1
+[2025-11-20 00:23:18,933][__main__][INFO] - 2025_I_5: ✓ Boxed answer '279' from attempt 1
+[2025-11-20 00:23:18,933][__main__][INFO] - 2025_I_6: ✓ Boxed answer '504' from attempt 1
+[2025-11-20 00:23:18,933][__main__][INFO] - 2025_I_7: ✓ Boxed answer '821' from attempt 1
+[2025-11-20 00:23:18,933][__main__][INFO] - 2025_I_8: ✓ Boxed answer '77' from attempt 1
+[2025-11-20 00:23:18,934][__main__][INFO] - 2025_I_9: ⚠ Extracted '2' from attempt 1 (model didn't follow box format)
+[2025-11-20 00:23:18,934][__main__][INFO] - 2025_I_10: ✓ Boxed answer '75' from attempt 1
+[2025-11-20 00:23:18,935][__main__][INFO] - 2025_I_11: ⚠ Extracted '20' from attempt 1 (model didn't follow box format)
+[2025-11-20 00:23:18,937][__main__][INFO] - 2025_I_12: ⚠ Extracted '2' from attempt 1 (model didn't follow box format)
+[2025-11-20 00:23:18,937][__main__][INFO] - 2025_I_13: ✓ Boxed answer '154' from attempt 1
+[2025-11-20 00:23:18,939][__main__][INFO] - 2025_I_14: ⚠ Extracted '14' from attempt 1 (model didn't follow box format)
+[2025-11-20 00:23:18,939][__main__][INFO] - 2025_I_15: ✓ Boxed answer '437' from attempt 1
+[2025-11-20 00:23:18,939][__main__][INFO] - 2025_II_1: ✓ Boxed answer '468' from attempt 1
+[2025-11-20 00:23:18,939][__main__][INFO] - 2025_II_2: ✓ Boxed answer '49' from attempt 1
+[2025-11-20 00:23:18,939][__main__][INFO] - 2025_II_3: ✓ Boxed answer '82' from attempt 1
+[2025-11-20 00:23:18,939][__main__][INFO] - 2025_II_4: ✓ Boxed answer '106' from attempt 1
+[2025-11-20 00:23:18,942][__main__][WARNING] - 2025_II_5: Could not extract valid answer from attempt 1
+[2025-11-20 00:23:18,942][__main__][ERROR] - 2025_II_5: No valid answer after 1 attempts. First response: Let the angles of $\triangle ABC$ be $A = 84^\circ$, $B = 60^\circ$, and $C = 36^\circ$.
+$D, E, F$ a...
+[2025-11-20 00:23:18,942][__main__][INFO] - 2025_II_6: ✓ Boxed answer '293' from attempt 1
+[2025-11-20 00:23:18,942][__main__][INFO] - 2025_II_7: ⚠ Extracted '151' from attempt 1 (model didn't follow box format)
+[2025-11-20 00:23:18,942][__main__][INFO] - 2025_II_8: ✓ Boxed answer '610' from attempt 1
+[2025-11-20 00:23:18,942][__main__][INFO] - 2025_II_9: ✓ Boxed answer '149' from attempt 1
+[2025-11-20 00:23:18,942][__main__][INFO] - 2025_II_10: ✓ Boxed answer '907' from attempt 1
+[2025-11-20 00:23:18,942][__main__][INFO] - 2025_II_11: ✓ Boxed answer '113' from attempt 1
+[2025-11-20 00:23:18,942][__main__][INFO] - 2025_II_12: ✓ Boxed answer '19' from attempt 1
+[2025-11-20 00:23:18,943][__main__][INFO] - 2025_II_13: ⚠ Extracted '20' from attempt 1 (model didn't follow box format)
+[2025-11-20 00:23:18,943][__main__][INFO] - 2025_II_14: ✓ Boxed answer '293' from attempt 1
+[2025-11-20 00:23:18,943][__main__][INFO] - 2025_II_15: ✓ Boxed answer '296' from attempt 1

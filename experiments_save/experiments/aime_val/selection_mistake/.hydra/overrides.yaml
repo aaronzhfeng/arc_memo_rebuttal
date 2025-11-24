@@ -1,0 +1,3 @@
+- selection=aime
+- selection.lesson_file=experiments/aime_train/abstraction_mistake/lessons.json
+- model@selection.model=gpt41

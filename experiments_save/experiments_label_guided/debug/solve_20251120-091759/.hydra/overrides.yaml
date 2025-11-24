@@ -1,0 +1,7 @@
+- data=aime_train_debug
+- model=o4_mini
+- generation.ignore_cache=true
+- generation.max_tokens=8192
+- generation.n=3
+- generation.expand_multi=true
+- generation.seed=null

@@ -1,0 +1,5 @@
+[2025-11-19 22:37:19,004][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments_2p5_debug/aime_val/gemini_with_memory_uncertain_20251119-223715
+[2025-11-19 22:37:19,030][__main__][INFO] - Loaded prompt data for 1 problems from /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments_2p5_debug/aime_val/selection_uncertain_20251119-223648/prompt_info.json
+[2025-11-19 22:37:19,030][__main__][INFO] - Using retrieval hints for inference.
+[2025-11-19 22:37:19,567][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 22:37:48,587][__main__][INFO] - 2024_I_10: ✓ Boxed answer '153' from attempt 1

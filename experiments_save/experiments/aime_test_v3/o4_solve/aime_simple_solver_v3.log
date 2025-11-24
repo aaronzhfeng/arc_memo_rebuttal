@@ -1,0 +1,235 @@
+[2025-11-18 05:24:37,456][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments/aime_test_v3/o4_solve
+[2025-11-18 05:24:39,377][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:39,421][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:39,506][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:39,510][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:39,578][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:39,593][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:39,685][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:39,815][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:39,820][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:39,834][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:39,837][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:39,911][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,037][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,238][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,382][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,402][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,420][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,603][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,605][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,716][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,727][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,741][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,750][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,836][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:40,997][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:41,382][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:41,383][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:41,384][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:41,427][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:41,580][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-1: Empty response in attempt 1
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-1: Empty response in attempt 2
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-1: Empty response in attempt 3
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-2: Empty response in attempt 1
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-2: Empty response in attempt 2
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-2: Empty response in attempt 3
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-3: Empty response in attempt 1
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-3: Empty response in attempt 2
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-3: Empty response in attempt 3
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-4: Empty response in attempt 1
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-4: Empty response in attempt 2
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-4: Empty response in attempt 3
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-5: Empty response in attempt 1
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-5: Empty response in attempt 2
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-5: Empty response in attempt 3
+[2025-11-18 05:24:41,582][__main__][WARNING] - 2019-II-6: Empty response in attempt 1
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-6: Empty response in attempt 2
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-6: Empty response in attempt 3
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-7: Empty response in attempt 1
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-7: Empty response in attempt 2
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-7: Empty response in attempt 3
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-8: Empty response in attempt 1
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-8: Empty response in attempt 2
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-8: Empty response in attempt 3
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-9: Empty response in attempt 1
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-9: Empty response in attempt 2
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-9: Empty response in attempt 3
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-10: Empty response in attempt 1
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-10: Empty response in attempt 2
+[2025-11-18 05:24:41,583][__main__][WARNING] - 2019-II-10: Empty response in attempt 3
+[2025-11-18 05:36:42,920][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments/aime_test_v3/o4_solve
+[2025-11-18 05:36:43,247][openai._base_client][INFO] - Retrying request to /chat/completions in 0.480589 seconds
+[2025-11-18 05:36:43,248][openai._base_client][INFO] - Retrying request to /chat/completions in 0.392207 seconds
+[2025-11-18 05:36:43,248][openai._base_client][INFO] - Retrying request to /chat/completions in 0.387423 seconds
+[2025-11-18 05:36:43,248][openai._base_client][INFO] - Retrying request to /chat/completions in 0.410344 seconds
+[2025-11-18 05:36:49,059][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:36:50,594][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:36:51,691][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:36:51,859][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:36:52,195][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:36:52,284][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:36:53,304][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:36:53,708][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:36:57,968][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:36:59,502][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:02,939][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:03,249][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:03,266][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:03,319][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:03,359][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:03,513][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:03,632][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:04,486][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:04,933][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:07,361][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:13,231][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:14,361][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:14,427][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:15,069][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:15,230][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:16,508][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:19,032][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:22,506][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:25,614][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:26,035][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:37:26,040][__main__][WARNING] - 2019-II-1: Empty response in attempt 1
+[2025-11-18 05:37:26,040][__main__][WARNING] - 2019-II-1: Empty response in attempt 2
+[2025-11-18 05:37:26,040][__main__][WARNING] - 2019-II-1: Empty response in attempt 3
+[2025-11-18 05:37:26,040][__main__][INFO] - 2019-II-2: ✓ Clean v3 format answer '107' from attempt 1
+[2025-11-18 05:37:26,040][__main__][INFO] - 2019-II-3: ✓ Clean v3 format answer '96' from attempt 1
+[2025-11-18 05:37:26,040][__main__][INFO] - 2019-II-4: ✓ Clean v3 format answer '187' from attempt 1
+[2025-11-18 05:37:26,040][__main__][WARNING] - 2019-II-5: Empty response in attempt 1
+[2025-11-18 05:37:26,040][__main__][WARNING] - 2019-II-5: Empty response in attempt 2
+[2025-11-18 05:37:26,040][__main__][WARNING] - 2019-II-5: Empty response in attempt 3
+[2025-11-18 05:37:26,040][__main__][INFO] - 2019-II-6: ✓ Clean v3 format answer '216' from attempt 1
+[2025-11-18 05:37:26,040][__main__][WARNING] - 2019-II-7: Empty response in attempt 1
+[2025-11-18 05:37:26,041][__main__][WARNING] - 2019-II-7: Empty response in attempt 2
+[2025-11-18 05:37:26,041][__main__][WARNING] - 2019-II-7: Empty response in attempt 3
+[2025-11-18 05:37:26,041][__main__][INFO] - 2019-II-8: ✓ Clean v3 format answer '53' from attempt 1
+[2025-11-18 05:37:26,041][__main__][INFO] - 2019-II-9: ✓ Clean v3 format answer '472' from attempt 1
+[2025-11-18 05:37:26,041][__main__][INFO] - 2019-II-10: ✓ Clean v3 format answer '547' from attempt 1
+[2025-11-18 05:45:19,643][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments/aime_test_v3/o4_solve
+[2025-11-18 05:45:26,288][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:26,298][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:26,340][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:26,701][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:26,791][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:29,300][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:29,622][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:31,897][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:36,016][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:36,818][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:38,248][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:38,886][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:38,888][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:38,889][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:38,893][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:38,987][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:39,017][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:39,022][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:39,077][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:39,199][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:39,940][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:45,093][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:45,438][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:45,513][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:52,196][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:55,371][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:56,095][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:57,008][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:57,065][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:45:57,380][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:57:50,769][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments/aime_test_v3/o4_solve
+[2025-11-18 05:57:57,406][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:57:57,613][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:57:58,252][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:57:58,778][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:57:58,885][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:57:59,426][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:00,349][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:05,068][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:05,069][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:07,165][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:08,769][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:08,775][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:09,049][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:09,076][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:09,119][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:09,159][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:09,261][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:09,263][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:09,318][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:10,341][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:13,827][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:15,825][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:16,179][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:17,102][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:22,120][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:22,830][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:23,295][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:25,400][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:26,980][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:27,289][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 05:58:27,294][__main__][WARNING] - 2019-II-1: Empty response in attempt 1
+[2025-11-18 05:58:27,294][__main__][WARNING] - 2019-II-1: Empty response in attempt 2
+[2025-11-18 05:58:27,294][__main__][WARNING] - 2019-II-1: Empty response in attempt 3
+[2025-11-18 05:58:27,294][__main__][INFO] - 2019-II-2: ✓ Clean v3 format answer '107' from attempt 1
+[2025-11-18 05:58:27,294][__main__][INFO] - 2019-II-3: ✓ Clean v3 format answer '96' from attempt 1
+[2025-11-18 05:58:27,294][__main__][WARNING] - 2019-II-4: Empty response in attempt 1
+[2025-11-18 05:58:27,295][__main__][WARNING] - 2019-II-4: Empty response in attempt 2
+[2025-11-18 05:58:27,295][__main__][WARNING] - 2019-II-4: Empty response in attempt 3
+[2025-11-18 05:58:27,295][__main__][WARNING] - 2019-II-5: Empty response in attempt 1
+[2025-11-18 05:58:27,295][__main__][WARNING] - 2019-II-5: Empty response in attempt 2
+[2025-11-18 05:58:27,295][__main__][WARNING] - 2019-II-5: Empty response in attempt 3
+[2025-11-18 05:58:27,295][__main__][INFO] - 2019-II-6: ✓ Clean v3 format answer '216' from attempt 1
+[2025-11-18 05:58:27,295][__main__][WARNING] - 2019-II-7: Empty response in attempt 1
+[2025-11-18 05:58:27,295][__main__][WARNING] - 2019-II-7: Empty response in attempt 2
+[2025-11-18 05:58:27,295][__main__][WARNING] - 2019-II-7: Empty response in attempt 3
+[2025-11-18 05:58:27,295][__main__][INFO] - 2019-II-8: ✓ Clean v3 format answer '53' from attempt 1
+[2025-11-18 05:58:27,295][__main__][WARNING] - 2019-II-9: Empty response in attempt 1
+[2025-11-18 05:58:27,295][__main__][WARNING] - 2019-II-9: Empty response in attempt 2
+[2025-11-18 05:58:27,295][__main__][WARNING] - 2019-II-9: Empty response in attempt 3
+[2025-11-18 05:58:27,295][__main__][INFO] - 2019-II-10: ✓ Clean v3 format answer '547' from attempt 1
+[2025-11-18 06:01:59,194][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments/aime_test_v3/o4_solve
+[2025-11-18 06:02:07,855][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:07,871][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:08,299][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:10,003][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:11,231][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:11,408][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:12,153][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:16,042][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:20,284][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:23,210][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:25,582][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:26,054][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:30,688][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:34,064][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:39,240][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:43,927][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:47,461][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:49,074][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:50,209][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:51,077][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:53,643][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:54,270][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:57,135][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:02:57,892][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:03:02,226][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:03:02,948][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:03:17,598][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:03:30,402][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:03:40,495][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:03:53,426][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-18 06:03:53,430][__main__][INFO] - 2019-II-1: ✓ Clean v3 format answer '59' from attempt 1
+[2025-11-18 06:03:53,430][__main__][INFO] - 2019-II-2: ✓ Clean v3 format answer '107' from attempt 1
+[2025-11-18 06:03:53,430][__main__][INFO] - 2019-II-3: ✓ Clean v3 format answer '96' from attempt 1
+[2025-11-18 06:03:53,430][__main__][INFO] - 2019-II-4: ✓ Clean v3 format answer '187' from attempt 1
+[2025-11-18 06:03:53,430][__main__][INFO] - 2019-II-5: ✓ Clean v3 format answer '240' from attempt 1
+[2025-11-18 06:03:53,431][__main__][INFO] - 2019-II-6: ✓ Clean v3 format answer '216' from attempt 1
+[2025-11-18 06:03:53,431][__main__][INFO] - 2019-II-7: ✓ Clean v3 format answer '715' from attempt 1
+[2025-11-18 06:03:53,431][__main__][INFO] - 2019-II-8: ✓ Clean v3 format answer '53' from attempt 1
+[2025-11-18 06:03:53,431][__main__][INFO] - 2019-II-9: ✓ Clean v3 format answer '472' from attempt 1
+[2025-11-18 06:03:53,431][__main__][INFO] - 2019-II-10: ✓ Clean v3 format answer '547' from attempt 1

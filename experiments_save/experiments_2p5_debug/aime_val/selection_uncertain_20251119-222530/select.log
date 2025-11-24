@@ -1,0 +1,6 @@
+[2025-11-19 22:25:33,082][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments_2p5_debug/aime_val/selection_uncertain_20251119-222530
+[2025-11-19 22:25:33,111][__main__][INFO] - Using model: google/gemini-2.5-flash-lite-preview-09-2025, from provider: openrouter
+[2025-11-19 22:25:33,854][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 22:25:35,394][__main__][INFO] - Parsing error count: 1
+[2025-11-19 22:25:35,395][__main__][INFO] - Wrote to /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments_2p5_debug/aime_val/selection_uncertain_20251119-222530
+[2025-11-19 22:25:35,395][__main__][INFO] - Wrote prompt info to /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments_2p5_debug/aime_val/selection_uncertain_20251119-222530/prompt_info.json

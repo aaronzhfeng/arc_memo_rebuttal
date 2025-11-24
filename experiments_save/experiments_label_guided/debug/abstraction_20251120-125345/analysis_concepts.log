@@ -1,0 +1,4 @@
+[2025-11-20 12:53:48,520][__main__][INFO] - Loaded 1 thought processes from experiments_label_guided/debug/reasoning_20251120-092733/thought_processes.json
+[2025-11-20 12:53:48,530][__main__][INFO] - First problem: 2020-I-1, thought_proc is None: False, domain_template: aime_strict
+[2025-11-20 12:53:56,010][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 12:53:56,023][__main__][INFO] - lesson abstraction complete. wrote to /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments_label_guided/debug/abstraction_20251120-125345

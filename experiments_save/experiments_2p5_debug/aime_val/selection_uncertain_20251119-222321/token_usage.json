@@ -1,0 +1,1 @@
+{"before":{},"after":{"google/gemini-2.5-flash-lite-preview-09-2025":{"input_tokens":1076,"output_tokens":511,"reasoning_tokens":0,"requests":1,"completions":1,"per_request_details":[{"request_num":1,"input_tokens":1076,"output_tokens":511,"reasoning_tokens":0,"total_tokens":1587,"num_completions":1}]}}}

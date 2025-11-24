@@ -1,0 +1,105 @@
+======================================================================
+PROMPT 3: Abstraction (Extract situation–suggestion lessons)
+======================================================================
+
+### Introduction
+You are analyzing AIME (American Invitational Mathematics Examination) problems to extract reusable mathematical reasoning patterns. AIME problems span various domains including algebra, geometry, number theory, combinatorics, and probability.
+
+Your task is to analyze a solved problem and its reasoning process to extract reusable lessons for solving other AIME problems. Write problem-solving "rules" that describe a **situation** (what patterns to recognize) and a **suggestion** (what techniques to try).
+
+### Instructions
+We will provide you with a problem answer and the solver's reasoning process.
+- The "situation" should describe mathematical patterns, structures, or conditions to recognize
+- The "suggestion" should recommend specific techniques or approaches
+- Make lessons general and reusable across different problems
+  - Focus on high-level mathematical insights
+  - Parameterize specific values (use "when coefficients form a pattern" not "when a=5")
+  - Ask: "Would this help with similar problems that use different numbers?"
+- Write lessons in a markdown YAML block in the following format:
+
+```yaml
+- situation: [mathematical pattern or condition to recognize]
+  suggestion: [technique or approach to try]
+```
+
+### Examples
+#### Example 1
+##### Example 1 Puzzle Solution
+```python
+
+```
+##### Example 1 Puzzle Solving Thought Process
+[Placeholder reasoning for 2019-I-1]
+##### Example 1 Lesson(s)
+```yaml
+- situation: "When an integer is formed by summing or concatenating long blocks of identical digits (like many 9s) and you are asked about its decimal form or digit sum."
+  suggestion: "Express each repeated-digit block using powers of the base (for example as combinations of 10^k and 1), combine them with geometric-series algebra, and then interpret the resulting expression back in base 10 to see the digit pattern."
+- situation: "When you have an algebraic expression for a large integer and need only its digit pattern or digit sum, especially after simplifying sums of repeated-digit numbers."
+  suggestion: "Rewrite the number into a form that is close to a string of all 0s, 1s, or 9s and then analyze the necessary carries or borrows systematically to determine long stretches of identical digits and compute the digit sum without full expansion."
+```
+
+#### Example 2
+##### Example 2 Puzzle Solution
+```python
+
+```
+##### Example 2 Puzzle Solving Thought Process
+[Placeholder reasoning for 2019-I-2]
+##### Example 2 Lesson(s)
+```yaml
+- situation: "When two numbers are chosen from a finite consecutive integer range and the condition depends only on their difference or which one is larger."
+  suggestion: "Model all outcomes as ordered pairs on an integer grid, describe the region that satisfies the inequality (or its complement) as a simple band or triangle, and count lattice points in that region to obtain the probability."
+```
+
+#### Example 3
+##### Example 3 Puzzle Solution
+```python
+
+```
+##### Example 3 Puzzle Solving Thought Process
+[Placeholder reasoning for 2019-I-3]
+##### Example 3 Lesson(s)
+```yaml
+- situation: "When a triangle with convenient side lengths (such as a scaled Pythagorean triple) has points marked at fixed distances along its sides and you need areas or coordinates of interior polygons."
+  suggestion: "Place the triangle in a coordinate system so key sides lie on the axes, parametrize points on the sides by their fractional distances from the vertices, and compute their coordinates explicitly."
+- situation: "When the vertices of a polygon are known in coordinates and the task is to find its area, especially inside a larger triangle."
+  suggestion: "Use a coordinate-area method such as the shoelace formula, or decompose the polygon into simpler triangles and rectangles, to calculate the area directly from the vertex coordinates."
+```
+
+
+### Problem Answer
+59
+
+### Solver's Reasoning
+Here is a concise, high‐level outline of how one arrives at the answer without exposing every private detail of my scratch work:
+
+1.  Model the picture in the plane.  Place  
+    A = (0,0) and B = (9,0).  
+
+2.  Locate C and D by using the Law of Cosines to get their coordinates.  
+    –  From triangle ABC with sides 9, 10, 17 one finds  
+       C = (15, 8).  
+    –  From triangle BAD with sides 9, 10, 17 one finds  
+       D = (–6, 8).  
+    Both C and D lie above the x–axis (the line AB).
+
+3.  Observe that the intersection of the two triangular regions ΔABC and ΔBAD is exactly the set of points that lie  
+    (i) above AB,  
+    (ii) below the line AC, and  
+    (iii) below the line BD.  
+    Geometrically one checks that over the interval x∈[0,9] the “lower” of those two roof‐lines is first AC from A up to the crossing point P, then BD from P back down to B.  In fact AC and BD meet exactly once in the interior; call that point P.
+
+4.  Compute P = AC ∩ BD by setting up parametric equations for the two segments.  One finds  
+    P = (4.5, 2.4).
+
+5.  Conclude that the overlapping region is the triangle with vertices A, B, and P.  Its area is  
+    area = ½·AB·(height at P) = ½·9·(2.4) = 10.8 = 54/5.  
+
+6.  Hence the intersection‐area is 54/5, so m+n = 54+5 = 59.
+
+That completes the key ideas:  
+•  Coordinate placement to simplify the side‐length conditions.  
+•  Law of Cosines to find C and D.  
+•  Identifying that the overlap is the “lower envelope” under two lines above the common base.  
+•  Finding their intersection P and seeing the overlap is just ΔABP.  
+•  Computing its area in one step.

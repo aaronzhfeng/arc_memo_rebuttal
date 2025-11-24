@@ -1,0 +1,5 @@
+- +abstraction=aime_lesson_from_trace_uncertain
+- abstraction.problem_solutions=experiments_2p5_debug/aime_train/joint_20251119-215349/solutions.json
+- abstraction.thought_processes=experiments_2p5_debug/aime_train/self_reflect_20251119-215419/thought_processes.json
+- model=gemini_2_5_flash_lite_thinking
+- abstraction.generation.ignore_cache=true

@@ -1,0 +1,26 @@
+[2025-11-19 13:52:04,252][__main__][WARNING] - No solution found for puzzle 2020-I-5. Skipping lesson extraction.
+[2025-11-19 13:52:04,252][__main__][WARNING] - No solution found for puzzle 2020-I-15. Skipping lesson extraction.
+[2025-11-19 13:52:04,253][__main__][WARNING] - No solution found for puzzle 2020-II-12. Skipping lesson extraction.
+[2025-11-19 13:52:04,253][__main__][WARNING] - No solution found for puzzle 2021-I-11. Skipping lesson extraction.
+[2025-11-19 13:52:04,253][__main__][WARNING] - No solution found for puzzle 2021-II-10. Skipping lesson extraction.
+[2025-11-19 13:52:04,254][__main__][WARNING] - No solution found for puzzle 2022-I-8. Skipping lesson extraction.
+[2025-11-19 13:52:04,254][__main__][WARNING] - No solution found for puzzle 2022-I-14. Skipping lesson extraction.
+[2025-11-19 13:52:04,254][__main__][WARNING] - No solution found for puzzle 2022-II-14. Skipping lesson extraction.
+[2025-11-19 13:52:04,254][__main__][WARNING] - No solution found for puzzle 2022-II-15. Skipping lesson extraction.
+[2025-11-19 13:52:04,255][__main__][WARNING] - No solution found for puzzle 2023_II_12. Skipping lesson extraction.
+[2025-11-19 13:52:04,255][__main__][WARNING] - No solution found for puzzle 2023_II_14. Skipping lesson extraction.
+[2025-11-19 13:52:09,915][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:10,085][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:10,585][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:10,595][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:10,723][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:11,228][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:11,230][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:11,342][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:11,807][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:11,983][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:12,882][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:12,919][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:12,944][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:14,198][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-19 13:52:14,309][__main__][INFO] - lesson abstraction complete. wrote to /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments/aime_train/abstraction_mistake

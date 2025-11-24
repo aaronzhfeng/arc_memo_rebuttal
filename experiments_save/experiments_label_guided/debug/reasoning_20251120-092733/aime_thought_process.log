@@ -1,0 +1,2 @@
+[2025-11-20 09:27:36,731][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments_label_guided/debug/reasoning_20251120-092733
+[2025-11-20 09:29:05,578][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

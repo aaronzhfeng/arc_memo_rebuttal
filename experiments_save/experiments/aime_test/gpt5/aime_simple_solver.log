@@ -1,0 +1,101 @@
+[2025-11-15 10:28:02,727][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments/aime_test/gpt5
+[2025-11-15 10:28:02,768][llmplus.client][ERROR] - prompt 0 failed: type: <class 'AssertionError'>, message: Unknown model gpt-5
+Traceback (most recent call last):
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 137, in _job
+    res = await self.async_generate(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 81, in async_generate
+    assert model in self.provider_meta.models, f"Unknown model {model}"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Unknown model gpt-5
+[2025-11-15 10:28:02,771][llmplus.client][ERROR] - prompt 1 failed: type: <class 'AssertionError'>, message: Unknown model gpt-5
+Traceback (most recent call last):
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 137, in _job
+    res = await self.async_generate(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 81, in async_generate
+    assert model in self.provider_meta.models, f"Unknown model {model}"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Unknown model gpt-5
+[2025-11-15 10:28:02,771][llmplus.client][ERROR] - prompt 2 failed: type: <class 'AssertionError'>, message: Unknown model gpt-5
+Traceback (most recent call last):
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 137, in _job
+    res = await self.async_generate(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 81, in async_generate
+    assert model in self.provider_meta.models, f"Unknown model {model}"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Unknown model gpt-5
+[2025-11-15 10:28:02,771][llmplus.client][ERROR] - prompt 3 failed: type: <class 'AssertionError'>, message: Unknown model gpt-5
+Traceback (most recent call last):
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 137, in _job
+    res = await self.async_generate(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 81, in async_generate
+    assert model in self.provider_meta.models, f"Unknown model {model}"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Unknown model gpt-5
+[2025-11-15 10:28:02,772][llmplus.client][ERROR] - prompt 4 failed: type: <class 'AssertionError'>, message: Unknown model gpt-5
+Traceback (most recent call last):
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 137, in _job
+    res = await self.async_generate(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 81, in async_generate
+    assert model in self.provider_meta.models, f"Unknown model {model}"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Unknown model gpt-5
+[2025-11-15 10:28:02,772][llmplus.client][ERROR] - prompt 5 failed: type: <class 'AssertionError'>, message: Unknown model gpt-5
+Traceback (most recent call last):
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 137, in _job
+    res = await self.async_generate(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 81, in async_generate
+    assert model in self.provider_meta.models, f"Unknown model {model}"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Unknown model gpt-5
+[2025-11-15 10:28:02,772][llmplus.client][ERROR] - prompt 6 failed: type: <class 'AssertionError'>, message: Unknown model gpt-5
+Traceback (most recent call last):
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 137, in _job
+    res = await self.async_generate(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 81, in async_generate
+    assert model in self.provider_meta.models, f"Unknown model {model}"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Unknown model gpt-5
+[2025-11-15 10:28:02,773][llmplus.client][ERROR] - prompt 7 failed: type: <class 'AssertionError'>, message: Unknown model gpt-5
+Traceback (most recent call last):
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 137, in _job
+    res = await self.async_generate(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 81, in async_generate
+    assert model in self.provider_meta.models, f"Unknown model {model}"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Unknown model gpt-5
+[2025-11-15 10:28:02,773][llmplus.client][ERROR] - prompt 8 failed: type: <class 'AssertionError'>, message: Unknown model gpt-5
+Traceback (most recent call last):
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 137, in _job
+    res = await self.async_generate(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 81, in async_generate
+    assert model in self.provider_meta.models, f"Unknown model {model}"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Unknown model gpt-5
+[2025-11-15 10:28:02,774][llmplus.client][ERROR] - prompt 9 failed: type: <class 'AssertionError'>, message: Unknown model gpt-5
+Traceback (most recent call last):
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 137, in _job
+    res = await self.async_generate(
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/aaronfeng/Repo/ARC_AGI/arc_memo/.venv/lib/python3.11/site-packages/llmplus/client.py", line 81, in async_generate
+    assert model in self.provider_meta.models, f"Unknown model {model}"
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+AssertionError: Unknown model gpt-5
+[2025-11-15 10:28:02,774][__main__][WARNING] - No valid answer for 2019-II-1 after 1 attempts
+[2025-11-15 10:28:02,775][__main__][WARNING] - No valid answer for 2019-II-2 after 1 attempts
+[2025-11-15 10:28:02,775][__main__][WARNING] - No valid answer for 2019-II-3 after 1 attempts
+[2025-11-15 10:28:02,775][__main__][WARNING] - No valid answer for 2019-II-4 after 1 attempts
+[2025-11-15 10:28:02,775][__main__][WARNING] - No valid answer for 2019-II-5 after 1 attempts
+[2025-11-15 10:28:02,775][__main__][WARNING] - No valid answer for 2019-II-6 after 1 attempts
+[2025-11-15 10:28:02,775][__main__][WARNING] - No valid answer for 2019-II-7 after 1 attempts
+[2025-11-15 10:28:02,775][__main__][WARNING] - No valid answer for 2019-II-8 after 1 attempts
+[2025-11-15 10:28:02,775][__main__][WARNING] - No valid answer for 2019-II-9 after 1 attempts
+[2025-11-15 10:28:02,775][__main__][WARNING] - No valid answer for 2019-II-10 after 1 attempts

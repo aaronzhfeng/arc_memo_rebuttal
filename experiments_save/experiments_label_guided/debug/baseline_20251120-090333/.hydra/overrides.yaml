@@ -1,0 +1,5 @@
+- data=aime_val_debug
+- model=gemini_2_5_flash_lite_thinking
+- generation=gemini_thinking_16k
+- generation.ignore_cache=true
+- generation.seed=null

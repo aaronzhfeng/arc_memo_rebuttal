@@ -1,0 +1,2 @@
+[2025-11-19 21:53:52,853][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments_2p5_debug/aime_train/joint_20251119-215349
+[2025-11-19 21:53:53,683][httpx][INFO] - HTTP Request: POST https://openrouter.ai/api/v1/chat/completions "HTTP/1.1 200 OK"

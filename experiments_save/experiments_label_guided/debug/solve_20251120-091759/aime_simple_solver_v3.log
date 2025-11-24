@@ -1,0 +1,7 @@
+[2025-11-20 09:18:02,894][__main__][INFO] - Output directory: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments_label_guided/debug/solve_20251120-091759
+[2025-11-20 09:19:17,866][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 09:19:40,233][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 09:19:42,737][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-20 09:19:42,744][__main__][INFO] - 2020-I-1: ✓ Boxed answer '73' from attempt 1
+[2025-11-20 09:19:42,744][__main__][WARNING] - 2020-I-1: Empty response in attempt 2
+[2025-11-20 09:19:42,744][__main__][WARNING] - 2020-I-1: Empty response in attempt 3

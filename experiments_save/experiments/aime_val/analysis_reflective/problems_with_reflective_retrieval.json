@@ -1,0 +1,114 @@
+[
+  {
+    "baseline_correct": false,
+    "origins": [
+      "2020-II-15"
+    ],
+    "problem_id": "2024_II_10",
+    "with_memory_correct": true
+  },
+  {
+    "baseline_correct": true,
+    "origins": [
+      "2022-I-6"
+    ],
+    "problem_id": "2024_II_3",
+    "with_memory_correct": true
+  },
+  {
+    "baseline_correct": false,
+    "origins": [
+      "2020-II-15"
+    ],
+    "problem_id": "2024_I_10",
+    "with_memory_correct": false
+  },
+  {
+    "baseline_correct": false,
+    "origins": [
+      "2020-II-14"
+    ],
+    "problem_id": "2024_I_12",
+    "with_memory_correct": false
+  },
+  {
+    "baseline_correct": true,
+    "origins": [
+      "2022-I-6"
+    ],
+    "problem_id": "2024_I_4",
+    "with_memory_correct": true
+  },
+  {
+    "baseline_correct": true,
+    "origins": [
+      "2020-II-15"
+    ],
+    "problem_id": "2025_II_12",
+    "with_memory_correct": true
+  },
+  {
+    "baseline_correct": false,
+    "origins": [
+      "2022-I-6"
+    ],
+    "problem_id": "2025_II_3",
+    "with_memory_correct": false
+  },
+  {
+    "baseline_correct": false,
+    "origins": [
+      "2022-I-13"
+    ],
+    "problem_id": "2025_II_7",
+    "with_memory_correct": false
+  },
+  {
+    "baseline_correct": false,
+    "origins": [
+      "2022-I-6"
+    ],
+    "problem_id": "2025_II_8",
+    "with_memory_correct": false
+  },
+  {
+    "baseline_correct": false,
+    "origins": [
+      "2020-II-14"
+    ],
+    "problem_id": "2025_I_11",
+    "with_memory_correct": false
+  },
+  {
+    "baseline_correct": false,
+    "origins": [
+      "2022-II-9"
+    ],
+    "problem_id": "2025_I_13",
+    "with_memory_correct": false
+  },
+  {
+    "baseline_correct": true,
+    "origins": [
+      "2022-II-8"
+    ],
+    "problem_id": "2025_I_3",
+    "with_memory_correct": true
+  },
+  {
+    "baseline_correct": true,
+    "origins": [
+      "2020-I-11"
+    ],
+    "problem_id": "2025_I_4",
+    "with_memory_correct": true
+  },
+  {
+    "baseline_correct": false,
+    "origins": [
+      "2021-I-15"
+    ],
+    "problem_id": "2025_I_9",
+    "with_memory_correct": false
+  }
+]

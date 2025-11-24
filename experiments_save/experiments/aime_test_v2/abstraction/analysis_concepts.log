@@ -1,0 +1,17 @@
+[2025-11-15 14:21:25,400][concept_mem.data.barc_seed_processing][ERROR] - BARC seed path does not exist: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/data/barc_seeds
+[2025-11-15 14:40:23,396][__main__][WARNING] - No solution found for puzzle 2019-II-1. Skipping lesson extraction.
+[2025-11-15 14:40:23,397][concept_mem.data.barc_seed_processing][ERROR] - BARC seed path does not exist: /Users/aaronfeng/Repo/ARC_AGI/arc_memo/data/barc_seeds
+[2025-11-15 14:43:02,805][__main__][WARNING] - No solution found for puzzle 2019-II-1. Skipping lesson extraction.
+[2025-11-15 14:44:33,583][__main__][WARNING] - No solution found for puzzle 2019-II-1. Skipping lesson extraction.
+[2025-11-15 14:44:33,583][__main__][WARNING] - No solution found for puzzle 2019-II-7. Skipping lesson extraction.
+[2025-11-15 14:44:39,688][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-15 14:44:40,546][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-15 14:44:41,070][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-15 14:44:41,253][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-15 14:44:41,492][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-15 14:44:41,918][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-15 14:44:42,184][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-11-15 14:44:42,184][openai._base_client][INFO] - Retrying request to /chat/completions in 0.405707 seconds
+[2025-11-15 14:44:42,328][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-15 14:44:51,459][httpx][INFO] - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-11-15 14:44:51,479][__main__][INFO] - lesson abstraction complete. wrote to /Users/aaronfeng/Repo/ARC_AGI/arc_memo/experiments/aime_test_v2/abstraction

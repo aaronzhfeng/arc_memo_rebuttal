@@ -1,0 +1,8 @@
+- selection=aime
+- selection.lesson_file=experiments_2p5/aime_train/abstraction_uncertain_20251119-225436/lessons.json
+- model@selection.model=gemini_2_5_flash_lite_thinking
+- generation@selection.generation=gemini_thinking_16k
+- generation.ignore_cache=true
+- selection.generation.ignore_cache=true
+- selection.generation.max_tokens=16384
+- selection.generation.seed=null

@@ -1,0 +1,9 @@
+{
+  "problems_with_reflective_and_correct": 6,
+  "problems_with_reflective_flip": 1,
+  "problems_with_reflective_retrieval": 14,
+  "total_validation_problems": 60,
+  "unique_reflective_origins_flip": 1,
+  "unique_reflective_origins_helped": 4,
+  "unique_reflective_origins_seen": 8
+}
